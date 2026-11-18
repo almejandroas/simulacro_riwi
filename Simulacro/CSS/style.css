@@ -1,0 +1,47 @@
+:root {
+  /* Fondos */
+  --bg-main: rgb(248, 245, 240);
+  --bg-secondary: rgb(239, 233, 224);
+  --bg-card: rgb(255, 255, 255);
+  --bg-footer: rgb(34, 30, 28);
+  --bg-input: rgb(48, 43, 40);
+
+  /* Marca */
+  --primary: rgb(184, 92, 56);
+  --primary-dark: rgb(142, 64, 36);
+
+  /* Textos */
+  --text-main: rgb(34, 30, 28);
+  --text-hero: rgb(58, 49, 44);
+  --text-body: rgb(92, 83, 76);
+  --text-card: rgb(105, 95, 87);
+  --text-light: rgb(235, 228, 218);
+  --text-footer-secondary: rgb(194, 184, 172);
+
+  /* Bordes */
+  --border-section: rgb(228, 220, 209);
+  --border-card: rgb(233, 226, 216);
+
+  /* Badges */
+  --badge-terracotta-bg: rgb(247, 232, 225);
+  --badge-terracotta: rgb(184, 92, 56);
+
+  --badge-ochre-bg: rgb(250, 240, 222);
+  --badge-ochre: rgb(196, 134, 52);
+
+  --badge-sage-bg: rgb(232, 240, 230);
+  --badge-sage: rgb(90, 114, 85);
+
+  --badge-copper-bg: rgb(243, 233, 228);
+  --badge-copper: rgb(142, 74, 49);
+
+  --pagination-inactive: rgb(216, 206, 194);
+}
+
+.bg-fondo{
+    background-color: var(--bg-main);
+}
+
+.bg-footer{
+    background-color: var(--bg-footer);
+}
